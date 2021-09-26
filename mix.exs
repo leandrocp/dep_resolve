@@ -21,7 +21,7 @@ defmodule DepResolve.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:chromic_pdf, "~> 1.1.1"},
+      {:chromic_pdf, "~> 1.1"},
       {:telemetry, "~> 0.4 or ~> 1.0"},
       {:telemetry_poller, "~> 0.5"}
     ]
